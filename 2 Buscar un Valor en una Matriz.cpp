@@ -17,7 +17,7 @@ Fila 2, Columna 1*/
 #include<iostream>
 using namespace std;
 //FUNCION PARA BUSCAR EN NUMERO EN LA MATRIZ 
-void buscar_valor(int matriz[3][3] , int numero_buscado){
+void buscar_valor(int matriz[3][3] , int numero_buscado ){
 	bool encontrado = false;
 	// recorremos la matriz para buscar el valor
 	for(int i=0 ; i<3 ; i++){
