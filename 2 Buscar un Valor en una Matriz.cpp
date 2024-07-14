@@ -42,8 +42,8 @@ int main(){
 	{7, 2, 9}
 };
 	// mostramos la matris definida
-	cout << "      MATRIZ DEFINIDA  " <<endl;
-	cout << "_____________________  " <<endl;
+	cout << "      MATRIZ DEFINIDA         " <<endl;
+	cout << "______________________________" <<endl;
 	cout << endl;
 	
 	for (int i =0 ; i<3;i++){
